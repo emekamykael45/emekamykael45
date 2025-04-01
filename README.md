@@ -23,11 +23,11 @@ I specialize in building high-performance, scalable web applications. With over 
 
 ### 📈 **GitHub Stats & Commit Graph**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emekamykael45&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-ten-gamma-61.vercel.app/api?username=emekamykael45&show_icons=true&count_private=true)
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emekamykael45)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emekamykael45&hide_progress=true)
+![Top Langs](https://github-readme-stats-ten-gamma-61.vercel.app/api/top-langs/?username=emekamykael45&hide_progress=true)
 
 ---
 
