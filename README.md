@@ -2,7 +2,7 @@
 
 *Frontend Engineer 👨🏻‍💻 | Contributor 🤝 | Leader 🌟 | Adventurer ✈️ | Keyboardist 🎹*
 
-[Portfolio](https://www.linkedin.com/in/chukwuemeka-azonobi/) | 
+[Portfolio](https://emekaz.cv/) | 
 [LinkedIn](https://www.linkedin.com/in/chukwuemeka-azonobi/) | 
 [Resume](https://docs.google.com/document/d/1mdmn0vFflo-t3TOKGsb4IQMiH0Dvq6PPQdXxwPwwBRU/edit?usp=sharing) | 
 [Discord](https://discord.com/users/michael_caz/) | 
